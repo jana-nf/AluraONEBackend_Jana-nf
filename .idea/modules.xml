@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Temperatura.iml" filepath="$PROJECT_DIR$/Temperatura.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Primeiro Projeto Java.iml" filepath="$PROJECT_DIR$/Primeiro Projeto Java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ClasseJAVA.iml" filepath="$PROJECT_DIR$/ClasseJAVA.iml" />
+>>>>>>> 872538a83ea6d5045f1567939179836ea2ba25c1
+>>>>>>> 9ec5bd1204799e7f1b6b7fb06b74b04040e9dff3
     </modules>
   </component>
 </project>
